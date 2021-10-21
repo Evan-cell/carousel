@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: centre;
+}
+
+.image{
+    flex-basis: 40%;
+    
+}
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  .carousel-inner{
+    margin: auto;
+    max-height: 50%;
+  }
